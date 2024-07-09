@@ -35,7 +35,7 @@ function Navbar() {
             <a className='a onHover' href="#skills">Skills</a>
           </li>
           <li className="item">
-            <a className='a onHover' href="#about">About</a>
+            <a className='a onHover' href="#about">About Me</a>
           </li>
          
           <li className="item">
