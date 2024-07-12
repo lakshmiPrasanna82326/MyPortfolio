@@ -35,7 +35,7 @@ function Home() {
           </p>
           <p className="text-left text-white">Get the satisfaction of turning thoughts into a reality.</p>
 
-          <a href="Lakshmi Prasanna (1).pdf" Download="test_image">
+          <a href="Lakshmi Prasanna (1).pdf" download="LakshmiPrasanna">
             <button className="mybutton" id="cv">Download CV</button>
             </a>
            {/* <a

@@ -1,5 +1,5 @@
 
-import { blueviolet } from "color-name";
+
 import "./App.css";
 import Navbar from  "./Navbar.js"
 import Home from "./Home.js"
