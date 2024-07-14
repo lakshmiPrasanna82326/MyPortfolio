@@ -27,7 +27,7 @@ function Navbar() {
          
           
           <li className="item">
-            <a className='a onHover' href="Lakshmi Prasanna (1).pdf" >Resume</a>
+            <a className='a onHover ' href="lakshmiPrasanna.pdf" target="blank" >Resume</a>
           </li>
         </ul>
         <button id="contact" className=' absolute bg-white text-black right-[70px] m-[14px] p-[3px] rounded-[7px] hover:bg-black hover:text-white'>Contact</button>
