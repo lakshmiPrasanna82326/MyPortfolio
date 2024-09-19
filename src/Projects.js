@@ -10,7 +10,7 @@ const Projects = () => {
         <div className="projects h-[320px] w-[1200px] ml-[150px] mt-4 text-left p-6 flex items-stretch space-x-52" id="project1">
           <div className=''>
           <h1>Book shell</h1>
-          <p>This is about Selling and buying books online and users can get what they want </p>
+          <p>This is about Selling and buying books online and users can login to use the service . </p>
           <p>LOrem lorem huvh ma jagfciakv jgfiah bjf oiuy igtbo9 kd</p>
           <p>Github:</p>
           <a href="#">Github/lakshmiprasanna/repository</a>
